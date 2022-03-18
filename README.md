@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amansharma129
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning c++ and java
+- 🌱 I’m currently learning c# 
  
 
 <!---
