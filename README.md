@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amansharma129
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning c# 
+- 🌱 c# 
  
 
 <!---
